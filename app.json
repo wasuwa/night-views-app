@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e1396810-77c8-43d0-86ca-0ba445f32207"
+      }
+    },
+    "owner": "wasuwa"
   }
 }
